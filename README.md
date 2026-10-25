@@ -23,16 +23,6 @@ A small full-stack course project. Browse real books, build a reading basket, an
 | `server/seed.js` | The 12 sample books, with real ISBNs |
 | `shared/catalog.js` | Book rules (checked by the server, and the ISBN check digit) |
 
-## Admin login
-
-| | Default (course) | Change it with |
-| --- | --- | --- |
-| Username | `admin` | `ADMIN_USERNAME` |
-| Password | `Admin@2026` | `ADMIN_PASSWORD` |
-| Session signing key | derived from the password | `ADMIN_SECRET` (recommended) |
-
-The fallback values are in `server/auth.js`. On Vercel, set the environment variables in the project settings. They override the fallback values, so you do not need to change the code.
-
 ## Run it locally
 
 ```bash
