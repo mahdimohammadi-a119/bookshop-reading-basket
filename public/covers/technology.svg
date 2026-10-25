@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 320">
+  <rect width="240" height="320" fill="#2f5d4c"/>
+  <rect x="18" y="18" width="204" height="284" fill="none" stroke="#e1ebe0" stroke-width="2" opacity="0.5"/>
+  <path d="M52 118 Q86 102 120 120 Q154 102 188 118 L188 178 Q154 162 120 180 Q86 162 52 178 Z" fill="#e1ebe0"/>
+  <line x1="120" y1="120" x2="120" y2="180" stroke="#2f5d4c" stroke-width="2"/>
+  <text x="120" y="244" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="2" fill="#e1ebe0">TECHNOLOGY</text>
+</svg>
